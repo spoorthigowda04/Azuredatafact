@@ -1,0 +1,9 @@
+{
+	"name": "aw-adf-proj-spoo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "734aeb78-376a-4103-9840-faf9eb814474",
+		"tenantId": "99f9c7cd-af56-451f-89af-9a3a2de0fcc7"
+	}
+}
